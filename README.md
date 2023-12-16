@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maki De la Vega
-- 👀 I’m interested in learing every kind of language.
-- 🌱 I’m currently learning python,dot.net,java,javascript.
+- 👀 I’m interested in Getting into big projects.
+- 🌱 I’m currently learning c#,java,javascript.
 - 💞️ I’m looking to collaborate on student projects.
 
 
